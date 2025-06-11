@@ -1,0 +1,5 @@
+1. git add .
+	you can replace "." with any file
+
+2. git commit -m "write your message(It will be visible on github)"
+3. git push 
