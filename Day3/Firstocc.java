@@ -8,17 +8,15 @@ public class Firstocc{
         return -1;
     }
 
-    private static int firstOccuranceRec(String str,char ch,int i){
-        if(i >= str.length())return -1;
-        if(str.charAt(i) == ch)return i;
-        return firstOccuranceRec(str, ch, i+1);
+    public int firstoccrec(String s, char ch, int i){
+        if(s.charAt(i) == ch) return i;
+        if(i>s.length()) return -1;
+        return firstoccrec(s, ch, i+1);
     }
 
     public static void main(String[] args){
         Firstocc obj = new Firstocc();
-        System.out.print(obj.firstocc("abcdes", 's'));
-
-        String str = "abcabcaaacc";
-        System.out.println(firstOccuranceRec(str,'c',0));
+        System.out.println(obj.firstocc("abcdes", 's'));
+        System.out.println(obj.firstoccrec("abcdes", 's', 0));
     }
 }
