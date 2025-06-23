@@ -3,6 +3,7 @@ import java.util.Arrays;
 
 class RemVal{
     public static void main(String[] args){
+        
 // Using extra space
 
         ArrayList<Integer> res = new ArrayList<>();
