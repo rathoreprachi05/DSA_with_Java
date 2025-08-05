@@ -1,3 +1,5 @@
+// Iterative Binary Search
+
 import java.util.Scanner;
 
 class BinarySearch{
