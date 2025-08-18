@@ -1,6 +1,5 @@
 public class MatrixOpr {
     int[][] arr;
-
     MatrixOpr(int[][] input){
         arr = input;
     }
