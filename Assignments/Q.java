@@ -9,11 +9,9 @@ class Q {
             digits.set(i, sum % 10);
             carry = sum / 10;
         }
-
         if (carry == 1) {
             digits.add(0, 1);
         }
-
         return digits;
     }
 
