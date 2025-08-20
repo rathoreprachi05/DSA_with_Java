@@ -21,7 +21,6 @@ public class MatrixOpr {
             result[i][j] = this.arr[i][j] + other.arr[i][j];
         }
     }
-    
     return new MatrixOpr(result);
 }
 
