@@ -38,5 +38,6 @@ class BinarySearch{
         int target = sc.nextInt();
         
         System.out.println(bs.binarySearch(arr, target));
+        
     }
 }
