@@ -5,6 +5,7 @@ class KokoAndBananasBinSearch {
         for (int i = 0; i < arr.length; i++) {
             totalHours += (arr[i] + k - 1) / k; // ceiling trick
         }
+        
         return totalHours <= h;
     }
 
