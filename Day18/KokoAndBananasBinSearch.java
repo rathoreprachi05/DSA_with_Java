@@ -7,7 +7,6 @@ class KokoAndBananasBinSearch {
         }
         return totalHours <= h;
     }
-
     int minSpeed(int[] arr, int h) {
         int maxPile = 0;
         for (int i = 0; i < arr.length; i++) {
