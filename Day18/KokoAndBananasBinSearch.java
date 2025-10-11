@@ -25,7 +25,7 @@ class KokoAndBananasBinSearch {
                 ans = mid;       // store possible answer
                 high = mid - 1;  // try smaller speed
             } else {
-                low = mid + 1;   
+                low = mid + 1;   // need faster speed
             }
         }
 
