@@ -4,8 +4,7 @@ class SearchInRotatedArray {
             if (arr[i] == target) return true;
         }
         return false;
-    }
-    
+    }    
     public static void main(String[] args) {
         SearchInRotatedArray lsr = new SearchInRotatedArray();
         int[] arr = {3, 4, 5, 1, 2};
