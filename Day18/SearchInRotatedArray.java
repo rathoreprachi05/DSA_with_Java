@@ -5,6 +5,7 @@ class SearchInRotatedArray {
         }
         return false;
     }
+
     
     public static void main(String[] args) {
         SearchInRotatedArray lsr = new SearchInRotatedArray();
