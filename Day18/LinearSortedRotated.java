@@ -3,6 +3,7 @@ class LinearSortedRotated{
         for(int i=0; i<=arr.length-1; i++){
             if(arr[i] == target) return true;
         }
+        
         return false;
     }
     public static void main(String[] args){
