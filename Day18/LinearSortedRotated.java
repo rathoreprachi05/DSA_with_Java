@@ -6,7 +6,6 @@ class LinearSortedRotated{
         
         return false;
     }
-
     public static void main(String[] args){
         LinearSortedRotated lsr = new LinearSortedRotated();
         int[] arr = {3,4,5,1,2};
