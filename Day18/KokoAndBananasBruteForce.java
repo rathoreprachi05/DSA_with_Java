@@ -6,7 +6,6 @@ She must finish all bananas within 'h' hours before the guard returns.
 Find the minimum integer speed 'k' at which Koko can finish all bananas on time.
 */
 
-
 class KokoAndBananasBruteForce {
 
     // Method to check if Koko can eat all bananas at speed k within h hours
