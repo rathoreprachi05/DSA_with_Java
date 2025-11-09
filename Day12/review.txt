@@ -1,3 +1,4 @@
 Solved questions from hackerrank class contest created by the teacher.
+
 Link:
 www.hackerrank.com/stp-java-june25
