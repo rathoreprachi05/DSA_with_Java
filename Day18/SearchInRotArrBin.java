@@ -8,7 +8,6 @@ class SearchRotArrBin {
             
             if (arr[mid] == target) return true;
 
-            
             // Left half is sorted
             if (arr[start] <= arr[mid]) {
                 if (arr[start] <= target && target < arr[mid]) {
@@ -17,6 +16,7 @@ class SearchRotArrBin {
                     start = mid + 1;
                 }
             }
+                
             // Right half is sorted
             else {
                 if (arr[mid] < target && target <= arr[end]) {
