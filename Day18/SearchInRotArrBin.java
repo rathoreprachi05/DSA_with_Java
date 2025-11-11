@@ -7,6 +7,7 @@ class SearchRotArrBin {
             int mid = start + (end - start) / 2;
             
             if (arr[mid] == target) return true;
+
             
             // Left half is sorted
             if (arr[start] <= arr[mid]) {
