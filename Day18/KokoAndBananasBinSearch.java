@@ -1,3 +1,17 @@
+// LeetCode Question Link: https://leetcode.com/problems/koko-eating-bananas/
+
+/* Question: Koko the monkey loves bananas! There are several piles of bananas, each with a different amount. The guards are gone for h hours.
+Koko wants to eat all the bananas before the guards get back. She needs to decide on an eating speed, k, which is how many bananas she eats per hour.
+
+Here are the rules:
+Koko picks a single pile of bananas to eat from each hour.
+She eats k bananas from that pile.
+If a pile has fewer than k bananas, she eats all of them in that hour and then stops to rest (she doesn't move to another pile until the next hour).
+She wants to eat as slowly as possible, but still finish everything within the h hours.
+
+Your job: Find the minimum possible eating speed (k) that allows Koko to eat all the bananas in all the piles before the h hours are up.
+*/
+
 class KokoAndBananasBinSearch {
 
     boolean check(int k, int[] arr, int h) {
