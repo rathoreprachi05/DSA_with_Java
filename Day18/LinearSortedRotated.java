@@ -1,3 +1,6 @@
+// Leetcode Problem Link: https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+// Similar problem Link (Leetcode): https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+
 class LinearSortedRotated{
     boolean searchInRotatedArr(int[] arr, int target){
         for(int i=0; i<=arr.length-1; i++){
