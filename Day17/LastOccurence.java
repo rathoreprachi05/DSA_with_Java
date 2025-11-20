@@ -1,3 +1,7 @@
+/* Relevant problem links:
+    1. https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1
+*/
+
 class LastOccurence{
     int lastOcc(int[] arr, int target){
         int start = 0;
