@@ -1,5 +1,6 @@
 /* Relevant problem links:
     1. https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1
+    2. https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
 */
 
 class LastOccurence{
