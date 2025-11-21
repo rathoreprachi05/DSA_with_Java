@@ -1,6 +1,8 @@
 /* Relevant Problem Links:
     1. https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1
     2. https://www.hackerrank.com/challenges/tutorial-intro/problem
+        3. https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/
+
 */
 
 import java.util.Scanner;
