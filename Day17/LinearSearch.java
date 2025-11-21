@@ -1,3 +1,7 @@
+/* Relevant Problem Links:
+    1. https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1
+*/
+
 import java.util.Scanner;
 
 class LinearSearch {
