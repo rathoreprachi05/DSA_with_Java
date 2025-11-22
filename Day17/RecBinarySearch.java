@@ -1,3 +1,9 @@
+/* Relevant Problem Links:
+    1. https://leetcode.com/problems/binary-search/description/
+    2. https://www.geeksforgeeks.org/problems/binary-search-1587115620/1
+    3. https://www.hackerrank.com/contests/lpdwarka2016/challenges/binary-search-basic
+*/
+
 // Binary Search using recursion
 
 import java.util.Scanner;
