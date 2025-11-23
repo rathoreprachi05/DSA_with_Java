@@ -1,6 +1,7 @@
 /* Relevant Problem Links:
     1. https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
     2. https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1
+    3. https://www.geeksforgeeks.org/problems/last-index-of-a-character-in-the-string4516/1
 */
 
 class RecLastOcc{
