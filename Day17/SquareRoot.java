@@ -1,6 +1,7 @@
 /* Relevant Problem Links:
     1. https://leetcode.com/problems/sqrtx/description/
     2. https://www.geeksforgeeks.org/problems/square-root/1
+    3. https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FSQRT
 */
 
 class SquareRoot{
