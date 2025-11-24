@@ -2,6 +2,7 @@
     1. https://leetcode.com/problems/sqrtx/description/
     2. https://www.geeksforgeeks.org/problems/square-root/1
     3. https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/FSQRT
+    4. https://www.hackerrank.com/challenges/sherlock-and-squares/problem
 */
 
 class SquareRoot{
