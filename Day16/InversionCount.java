@@ -1,3 +1,7 @@
+/* Relevant Problem Links:
+    1. https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1
+*/
+
 public class InversionCount{
 
     // Brute Force approach ---> Time Complexity : O(n^2)
