@@ -2,6 +2,7 @@
     1. https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1
     2. https://www.hackerrank.com/challenges/ctci-merge-sort/problem
     3. https://leetcode.com/problems/reverse-pairs/description/
+    4. https://leetcode.com/problems/global-and-local-inversions/description/
 */
 
 public class InversionCount{
