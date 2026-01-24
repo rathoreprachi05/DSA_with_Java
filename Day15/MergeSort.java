@@ -1,3 +1,8 @@
+/*Relevant Links:
+    hackerrank Link: https://www.hackerrank.com/challenges/sherlock-and-squares/problem
+    LeetCode Link: https://www.hackerrank.com/challenges/sherlock-and-squares/problem
+*/
+
 import java.util.Arrays;
 
 class MergeSort{
