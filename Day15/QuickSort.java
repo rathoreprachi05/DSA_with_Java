@@ -1,9 +1,5 @@
 /* Relevant Problem Links:
     1. https://leetcode.com/problems/sort-an-array/description/
-    2. https://leetcode.com/problems/kth-largest-element-in-an-array/description/
-    3. https://leetcode.com/problems/sort-colors/description/
-    4. https://www.hackerrank.com/challenges/quicksort3/problem
-    5. https://www.hackerrank.com/challenges/quicksort1/problem
 */
 
 
