@@ -1,3 +1,12 @@
+/* Relevant Problem Links:
+    1. https://www.geeksforgeeks.org/problems/selection-sort/1
+    2. https://leetcode.com/problems/sort-an-array/description/
+    3. https://www.hackerrank.com/challenges/ctci-bubble-sort/problem
+    4. https://www.codechef.com/problems/TSORT
+    5. https://atcoder.jp/contests/abc042/tasks/abc042_a
+*/
+
+
 public class SelectionSort {
     public int[] selectionSort(int[] arr) {
         for(int i = 0; i < arr.length; i++) {
