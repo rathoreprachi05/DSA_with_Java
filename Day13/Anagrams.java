@@ -1,6 +1,8 @@
 /* Relevant problem links:
     1. https://leetcode.com/problems/group-anagrams/description/
     2. https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem
+    3. https://www.codechef.com/practice/strings
+    4. https://www.geeksforgeeks.org/problems/print-anagrams-together/1
 */
 
 import java.util.ArrayList;
